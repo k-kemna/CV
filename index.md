@@ -6,7 +6,7 @@ title: Kilian Kemna English
 
 <div id="webaddress">
 <a href="mailto:kilian.kemna@web.de">kilian.kemna@web.de</a> 
-| +4915788978374 | Neue Marktstraße 4, 47051 Duisburg
+<!-- | +4915788978374 | Neue Marktstraße 4, 47051 Duisburg -->
 </div>
 
 <br />
